@@ -11,7 +11,11 @@ Pada kasus prediksi pertandingan sepak bola, kelompok kami menggunakan metode ma
 
 ## Performance - Evaluasi
 
+MSE atau Mean Squared Error digunakan untuk mendapatkan informasi seberapa dekat garis regresi dengan sebuah titik, dilakukan dengan cara mengambil jarak atau error dari titik kepada garis regresi lalu dikuadratkan dengan tujuan untuk menghilangkan angka negatif.
 
+RMSE atau Root Mean Square Error adalah Standard Deviation dari Residual yang merupakan pengukuran titik data kepada garis regresi, atau dengan kata lain Root Mean Square Error adalah pengukuran dari penyebaran dari Residual atau seberapa padat data disekitar garis regresi.
+
+MAE
 
 ## Prediksi-Model
 
