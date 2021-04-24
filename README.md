@@ -21,6 +21,8 @@ Pada kasus prediksi pertandingan sepak bola, kelompok kami menggunakan metode ma
 
 ### Scatter Plot
 
-<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Scatter%20Plot.png" width="450">
+<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Scatter%20Plot.png" width="1000">
+
+### Table
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Table.png" width="1000">
