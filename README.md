@@ -5,7 +5,7 @@
     - Hansen Layanardi      : Laporan GitHub
     - jason Arthur          : Machine Learning
     - Kelvin Wiriyatama     : Laporan GitHub
-## Metode Machine Learning- Linear Regresion
+## Metode Machine Learning- Linear Regression
 ## Performance - Evaluasi
 ## Prediksi-Model
 ## Hasil (R-Shiny)
