@@ -1,5 +1,5 @@
 # RisetOperasionalProject-PrediksiPertandinganSepakBola
-### Anggota dan Kontirbusi
+### Anggota dan Kontribusi
     - Elbert Tanata
     - Hansen Firdianto
     - Hansen Layanardi
