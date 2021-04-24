@@ -15,7 +15,9 @@ MSE atau Mean Squared Error digunakan untuk mendapatkan informasi seberapa dekat
 
 RMSE atau Root Mean Square Error adalah Standard Deviation dari Residual yang merupakan pengukuran titik data kepada garis regresi, atau dengan kata lain Root Mean Square Error adalah pengukuran dari penyebaran dari Residual atau seberapa padat data disekitar garis regresi.
 
-MAE
+MAE atau Mean Absolute Error adalah rata rata dari perbedaan antara nilai yang terukur dengan nilai aslinya
+
+R2 digunakan untuk mencari tahu berapa banyak Data Points yang berada dalam dalam garis persamaan regresi.
 
 ## Prediksi-Model
 
