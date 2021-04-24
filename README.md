@@ -1,4 +1,4 @@
-# RisetOperasionalProject-PrediksiPertandinganSepakBola
+# Riset Operasional Project - Prediksi Pertandingan Sepak Bola
 ### Anggota dan Kontribusi
     - Elbert Tanata         :
     - Hansen Firdianto      : Visualisasi - RShiny
