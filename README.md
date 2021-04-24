@@ -1,6 +1,6 @@
 # Riset Operasional Project - Prediksi Pertandingan Sepak Bola
 ### Anggota dan Kontribusi
-    - Elbert Tanata         :
+    - Elbert Tanata         : Visualisasi - RShiny
     - Hansen Firdianto      : Visualisasi - RShiny
     - Hansen Layanardi      : Laporan GitHub
     - jason Arthur          : Machine Learning
