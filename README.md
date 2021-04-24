@@ -11,7 +11,8 @@ Pada kasus prediksi pertandingan sepak bola, kelompok kami menggunakan metode ma
 
 ## Performance - Evaluasi
 
-
+### PENIS
+<img src="https://doktersehat.com/wp-content/uploads/2019/02/anatomi-penis-doktersehat.jpg" width="450">
 
 ## Prediksi-Model
 
