@@ -19,8 +19,6 @@ Pada kasus prediksi pertandingan sepak bola, kelompok kami menggunakan metode ma
 
 ## Hasil (R-Shiny)
 
-
-
 ### Scatter Plot
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Scatter%20Plot.png" width="450">
