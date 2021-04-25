@@ -9,11 +9,7 @@
 
 Pada kasus prediksi pertandingan sepak bola, kelompok kami menggunakan metode machine learning Linear Regression. Linear Regression adalah salah satu dari teknik _predictive modelling_, model ini dapat digunakan untuk memprediksi nilai dari target bedasarkan dari variabel yang diberikan. Linear Regression direpresentasikan dengan persamaan 𝑌 = 𝑎 + 𝑏𝑋 + 𝑒, dimana a adalah perpotongan, b adalah gradien dari garis dan e adalah istilah error. Kami memutuskan untuk menggunakan teknik pemodelan ini karena target kami adalah nilai numerik. 
 
-Model lain yang mungkin kami gunakan adalah SVM yang dapat digunakan jika ada pemisah yang jelas antar kelas target, dimana kasus kami tidak memilikinya. Akan tetapi kami tetap mencoba menggunakan metode SVM untuk membandingan dengan metode Linear Regression. 
-
-
-
-SVM memiliki kelemahan yang membuatnya tidak cocok digunakan untuk prediski model kami, karena data kami mempunyai banyak fitur yang membuat prediksi model ini menghasilkan performa yang kurang baik.
+Model lain yang mungkin kami gunakan adalah SVM yang dapat digunakan jika ada pemisah yang jelas antar kelas target, dimana kasus kami tidak memilikinya. Akan tetapi kami tetap mencoba menggunakan metode SVM untuk membandingan dengan metode Linear Regression. SVM atau Support Vector Machine adalah metode machine learning yang bisa digunakan untuk classification dan regression, SVM membuat sebuah hyperplane atau sekumpulan hyperplane di ruang berdimensi tinggi atau tak hingga. Pada kasus kami, kami menemukan bahwa metode SVM memiliki kelemahan yang membuatnya tidak cocok digunakan untuk prediski model kami. Data kami mempunyai banyak fitur yang membuat prediksi model ini menghasilkan performa yang kurang baik.
 
 ## Performance - Evaluasi
 
