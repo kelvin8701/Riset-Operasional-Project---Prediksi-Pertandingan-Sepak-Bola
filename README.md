@@ -45,7 +45,7 @@ Menurut data yang didapat pada Away Model menggunakan metode machine learning li
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Prediksi%20Away%20Model.png" width="800">
 
-Tabel diatas menunjukkan data data yang digunakan untuk melakukan prediksi beserta dengan hasil prediksi yang didapatkan dengan menggunakan proses machine learning Linear Regression.
+Tabel diatas menunjukkan data data yang digunakan untuk melakukan prediksi beserta dengan hasil prediksi skor yang didapatkan dengan menggunakan proses machine learning Linear Regression.
 
 ## Hasil (R-Shiny)
 
