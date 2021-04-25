@@ -3,7 +3,7 @@
     - Elbert Tanata / 010821900              : Visualisasi - RShiny
     - Hansen Firdianto / 010821900           : Visualisasi - RShiny
     - Hansen Layanardi / 01082190010         : Laporan GitHub, Machine Learning (SVM)
-    - jason Arthur / 010821900               : Machine Learning (Linear Regression)
+    - Jason Arthur / 010821900               : Machine Learning (Linear Regression)
     - Kelvin Wiriyatama / 0108219002         : Laporan GitHub, Machine Learning (SVM)
 ## Metode Machine Learning- Linear Regression
 
