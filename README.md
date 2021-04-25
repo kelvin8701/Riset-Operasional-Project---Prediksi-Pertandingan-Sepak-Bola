@@ -41,9 +41,12 @@ menurut data yang didapat pada Away Model menggunakan metode machine learning li
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Home%20Model.png" width="800">
 
+
 ### Away Model
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Away%20Model.png" width="800">
+
+tabel diatas menunjukkan 
 
 ## Hasil (R-Shiny)
 
