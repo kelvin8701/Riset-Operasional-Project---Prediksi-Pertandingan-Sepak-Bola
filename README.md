@@ -25,7 +25,7 @@ MAE atau Mean Absolute Error adalah rata rata dari perbedaan antara nilai yang t
 
 R2 digunakan untuk mencari tahu berapa banyak Data Points yang berada dalam dalam garis persamaan regresi.
 
-Berdasarkan hasil perhitungan yang dilakukan melalui orange, performance yang ditunjukkan oleh hasil yang kami terima adalah metode machine learning Linear Regression mendapatkan hasil yang lebih baik dibandingkan dengan metode machine learning SVM, melalui gambar tabel ini nilai dari MSE, RMSE, MAE, R2 yang didapat kan adalah sebagai berikut ini :
+Berdasarkan hasil perhitungan yang dilakukan melalui orange, nilai dari MSE, RMSE, MAE, R2 yang didapat kan adalah sebagai berikut ini :
 
 ### Home Model
 
@@ -34,6 +34,8 @@ Berdasarkan hasil perhitungan yang dilakukan melalui orange, performance yang di
 ### Away Model
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Performance%20Away%20Model.png" width="500">
+
+bisa kita ketahui dari data MSE, RMSE, MAE, R2 yang didapat diatas, pada Home Model menggunakan metode machine learning linear regression mendapatkan Mean Squared Error sebesar 2.954, Root Mean Square Error yang didapat adalah 1.719, Mean Absolute Error yang didapat 1.250, dan R2 yang didapat adalah 0.038, sedangkan dengan metode machine learning SVM mendapatkan Mean Squared Error sebesar 13.652, Root Mean Square Error yang didapat adalah 3.695, Mean Absolute Error yang didapat 3.430, dan R2 yang didapat adalah -3.446, dapat dilihat dari Mean Square Error angka yang didapat dari metode machine learning linear regression jauh lebih kecil dibandingkan dengan menggunakan metode machine learning SVM, berdasarkan pengertian dari Mean Squared Error semakin kecil angka yang didapat maka semakin dekat garis dengan sebuah titik, oleh karena itu pada kasus ini menggunakan metode machine learning linear regression lebih baik dari pada metode machine learning SVM karena semua hasil yang didapatkan lebih kecil.
 
 ## Prediksi-Model
 
