@@ -31,7 +31,7 @@ Berdasarkan hasil perhitungan yang dilakukan melalui orange, performance yang di
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Performance%20Home%20Model.png" width="500">
 
-### Away Modal
+### Away Model
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Performance%20Away%20Model.png" width="500">
 
