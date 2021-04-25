@@ -3,7 +3,7 @@
     - Elbert Tanata         : Visualisasi - RShiny
     - Hansen Firdianto      : Visualisasi - RShiny
     - Hansen Layanardi      : Laporan GitHub, Machine Learning (SVM)
-    - jason Arthur          : Machine Learning (Linear Regression)
+    ~~- jason Arthur          : Machine Learning (Linear Regression)~~
     - Kelvin Wiriyatama     : Laporan GitHub, Machine Learning (SVM)
 ## Metode Machine Learning- Linear Regression
 
