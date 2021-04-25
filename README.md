@@ -1,10 +1,10 @@
 # Riset Operasional Project - Prediksi Pertandingan Sepak Bola
 ### Anggota dan Kontribusi
-    - Elbert Tanata         : Visualisasi - RShiny
-    - Hansen Firdianto      : Visualisasi - RShiny
-    - Hansen Layanardi      : Laporan GitHub, Machine Learning (SVM)
-    - jason Arthur          : Machine Learning (Linear Regression)
-    - Kelvin Wiriyatama     : Laporan GitHub, Machine Learning (SVM)
+    - Elbert Tanata / 010821900              : Visualisasi - RShiny
+    - Hansen Firdianto / 010821900           : Visualisasi - RShiny
+    - Hansen Layanardi / 01082190010         : Laporan GitHub, Machine Learning (SVM)
+    - jason Arthur / 010821900               : Machine Learning (Linear Regression)
+    - Kelvin Wiriyatama / 0108219002         : Laporan GitHub, Machine Learning (SVM)
 ## Metode Machine Learning- Linear Regression
 
 Pada kasus prediksi pertandingan sepak bola, kelompok kami menggunakan metode machine learning Linear Regression. Linear Regression adalah salah satu dari teknik _predictive modelling_, model ini dapat digunakan untuk memprediksi nilai dari target bedasarkan dari variabel yang diberikan. Linear Regression direpresentasikan dengan persamaan 𝑌 = 𝑎 + 𝑏𝑋 + 𝑒, dimana a adalah perpotongan, b adalah gradien dari garis dan e adalah istilah error. Kami memutuskan untuk menggunakan teknik pemodelan ini karena target kami adalah nilai numerik. 
