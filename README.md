@@ -1,9 +1,9 @@
 # Riset Operasional Project - Prediksi Pertandingan Sepak Bola
 ### Anggota dan Kontribusi
     - Elbert Tanata / 010821900              : Visualisasi - RShiny
-    - Hansen Firdianto / 010821900           : Visualisasi - RShiny
+    - Hansen Firdianto / 01082190003         : Visualisasi - RShiny
     - Hansen Layanardi / 01082190010         : Laporan GitHub, Machine Learning (SVM)
-    - Jason Arthur / 010821900               : Machine Learning (Linear Regression)
+    - Jason Arthur / 01082190013             : Machine Learning (Linear Regression)
     - Kelvin Wiriyatama / 0108219002         : Laporan GitHub, Machine Learning (SVM)
 ## Metode Machine Learning- Linear Regression
 
