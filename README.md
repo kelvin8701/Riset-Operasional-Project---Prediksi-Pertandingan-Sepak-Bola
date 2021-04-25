@@ -53,6 +53,13 @@ Tabel diatas menunjukkan hasil prediksi yang didapatkan dengan menggunakan prose
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Scatter%20Plot.png" width="1000">
 
+Pada gambar di atas terdapat persebaran titik pada away model dan home model dengan sumbu x merepresentasikan Home model dan sumbu y merepresentasikan away model. Persebaran titik pada scatter plot di atas menunjukan skor ketika sebuah tim sepak bola melakukan perandingan kandang dan tandang. Dapat terlihat dari gambar bahwa persebaran data lebih banyak kemenangan terjadi ketika sebuah tim bermain di kandang namun ada juga pertandingan dimana tim yang bermain di tandang menang jauh melwan tim kandang. Dalam scatter plot ini tidak bisa mendeteksi tim apa yang menang dan kalah namun scatter plot ini gabungan dari semua data yang ada.
+
 ### Tabel
 
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Table.png" width="1000">
+
+Pada tabel di bawah ini ditampilkan data dari setiap tim yang bertanding dan bagaimana prediksi dari skor kandang dan tandang dari sebuah pertandingan. Dalam tabel ini juga terdapat fitur untuk mencari spesifik tim mana ataupun turnamen mana. Dalam tabe juga dapat dipilih untuk data mana yang ingin ditampilkan dan tidak ingin di tampilkan dan juga bisa di urutkan data berdasarkan kolom apa.
+
+## Referensi
+
