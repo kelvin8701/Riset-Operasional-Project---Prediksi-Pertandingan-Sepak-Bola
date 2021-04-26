@@ -24,6 +24,8 @@ MAE atau Mean Absolute Error adalah rata rata dari perbedaan antara nilai yang t
 R2 digunakan untuk mencari tahu berapa banyak Data Points yang berada dalam dalam garis persamaan regresi.
 
 Pengaturan yang digunakan saat membuat model:
+
+
 <img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Images/LinearRegressionOption.PNG" width="500">
 
 Berdasarkan hasil perhitungan yang dilakukan melalui orange, nilai dari MSE, RMSE, MAE, R2 yang didapat kan adalah sebagai berikut ini :
