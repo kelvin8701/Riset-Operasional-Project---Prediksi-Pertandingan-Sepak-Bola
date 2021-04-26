@@ -73,4 +73,5 @@ Pada tabel di bawah ini ditampilkan data dari setiap tim yang bertanding dan bag
 https://medium.com/swlh/predictive-modelling-using-linear-regression-e0e399dc4745#:~:text=Linear%20regression%20is%20one%20of,given%20predictor%20variable(s).
 https://dhirajkumarblog.medium.com/top-4-advantages-and-disadvantages-of-support-vector-machine-or-svm-a3c06a2b107
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+https://shiny.rstudio.com/articles/datatables.html
 
