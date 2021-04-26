@@ -27,13 +27,13 @@ Berdasarkan hasil perhitungan yang dilakukan melalui orange, nilai dari MSE, RMS
 
 ### Home Model
 
-<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Performance%20Home%20Model.png" width="500">
+<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Image/Performance%20Home%20Model.png" width="500">
 
 Bisa kita ketahui dari data MSE, RMSE, MAE, R2 yang didapat diatas, pada Home Model menggunakan metode machine learning linear regression mendapatkan Mean Squared Error sebesar 2.954, Root Mean Square Error yang didapat adalah 1.719, Mean Absolute Error yang didapat 1.250, dan R2 yang didapat adalah 0.038, sedangkan dengan metode machine learning SVM mendapatkan Mean Squared Error sebesar 13.652, Root Mean Square Error yang didapat adalah 3.695, Mean Absolute Error yang didapat 3.430, dan R2 yang didapat adalah -3.446, dapat dilihat dari Mean Square Error angka yang didapat dari metode machine learning Linear Regression jauh lebih kecil dibandingkan dengan menggunakan metode machine learning SVM, berdasarkan pengertian dari Mean Squared Error semakin kecil angka yang didapat maka semakin dekat garis dengan sebuah titik, oleh karena itu pada kasus ini menggunakan metode machine learning Linear Regression lebih baik dari pada metode machine learning SVM karena semua hasil yang didapatkan lebih kecil.
 
 ### Away Model
 
-<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Performance%20Away%20Model.png" width="500">
+<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Image/Performance%20Away%20Model.png" width="500">
 
 Menurut data yang didapat pada Away Model menggunakan metode machine learning linear regression mendapatkan Mean Squared Error sebesar 1.872, Root Mean Square Error yang didapat adalah 1.368, Mean Absolute Error yang didapat 0.980, dan R2 yang didapat adalah 0.049, sedangkan dengan metode machine learning SVM mendapatkan Mean Squared Error sebesar 9.864, Root Mean Square Error yang didapat adalah 3.141, Mean Absolute Error yang didapat 2.932, dan R2 yang didapat adalah -4.011, sama seperti pada Home Model dapat dilihat dari Mean Square Error angka yang didapat dari metode machine learning Linear Regression juga jauh lebih kecil dibandingkan dengan menggunakan metode machine learning SVM, oleh karena itu pada kasus ini menggunakan metode machine learning Linear Regression lebih baik dari pada metode machine learning SVM karena semua hasil yang didapatkan lebih kecil.
 
@@ -41,11 +41,11 @@ Menurut data yang didapat pada Away Model menggunakan metode machine learning li
 
 ### Home Model
 
-<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Prediksi%20Home%20Model.png" width="800">
+<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Image/Prediksi%20Home%20Model.png" width="800">
 
 ### Away Model
 
-<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Prediksi%20Away%20Model.png" width="800">
+<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Image/Prediksi%20Away%20Model.png" width="800">
 
 Tabel diatas menunjukkan data data yang digunakan untuk melakukan prediksi beserta dengan hasil prediksi skor yang didapatkan dengan menggunakan proses machine learning Linear Regression.
 
@@ -53,13 +53,13 @@ Tabel diatas menunjukkan data data yang digunakan untuk melakukan prediksi beser
 
 ### Scatter Plot
 
-<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Scatter%20Plot.png" width="1000">
+<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Image/RShiny%20Scatter%20Plot.png" width="1000">
 
 Pada gambar di atas terdapat persebaran titik pada away model dan home model dengan sumbu x merepresentasikan Home model dan sumbu y merepresentasikan away model. Persebaran titik pada scatter plot di atas menunjukan skor ketika sebuah tim sepak bola melakukan perandingan kandang dan tandang. Dapat terlihat dari gambar bahwa persebaran data lebih banyak kemenangan terjadi ketika sebuah tim bermain di kandang namun ada juga pertandingan dimana tim yang bermain di tandang menang jauh melwan tim kandang. Dalam scatter plot ini tidak bisa mendeteksi tim apa yang menang dan kalah namun scatter plot ini gabungan dari semua data yang ada.
 
 ### Tabel
 
-<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/RShiny%20Table.png" width="1000">
+<img src="https://github.com/kelvin8701/Riset-Operasional-Project---Prediksi-Pertandingan-Sepak-Bola/blob/main/Image/RShiny%20Table.png" width="1000">
 
 Pada tabel di bawah ini ditampilkan data dari setiap tim yang bertanding dan bagaimana prediksi dari skor kandang dan tandang dari sebuah pertandingan. Dalam tabel ini juga terdapat fitur untuk mencari spesifik tim mana ataupun turnamen mana. Dalam tabe juga dapat dipilih untuk data mana yang ingin ditampilkan dan tidak ingin di tampilkan dan juga bisa di urutkan data berdasarkan kolom apa.
 
