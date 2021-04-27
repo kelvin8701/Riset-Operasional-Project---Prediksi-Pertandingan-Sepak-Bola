@@ -13,7 +13,7 @@ Model lain yang mungkin kami gunakan adalah SVM yang dapat digunakan jika ada pe
 
 Untuk menggunakan kedua machine learning di atas kami menggunakan aplikasi Orange. Menggunakan aplikasi Orange pertama kita menginput dataset yang kami unduh dari Kaggle. Kemudian kumpulan data tersebut tidak bisa langsung disambungkan ke machine learning sehingga kami perlu memisahkan antara home score dan away score. Setelah dipisahkan menggunakan select column, kemudian kami menghubugnkannya dengan metode machine learning kami yaitu Linear Regression dan SVM. Setelah data disambungkan ke metode machine learning, kami menyambungkan hasil train data di machine learning ke prediction sehingga hasilnya adalah home_model dan away_model prediksi dari tiap machine learning. Kemudian untuk melihat performance dari kedua machine learning tersebut kami menghubungakan data hasil select column kami dan metode machine learning ke Test and Score sehingga dapat terlihat MSE, RMSE, MAE, dan R2 dari tiap metode machine learning yang kami gunakan. Kemudian Kami menghubungkannya ke data tabel dan kemudian menyimpannya yang nantinya data tabel tersebut akan di visualisasikan melalui R-Shiny.
 
-Pada saat kami mencari performance terbaik untuk SVM kami mecoba coba untuk memasukkan features dan meta data untuk menghasilkan hasil yang terbaik. kami tidak memiliki alasan yang khusus atau spesifik dengan menagapa kami memasukkan features dan metadata untuk mencari hasil dari SVM.
+Pada saat kami mencari performance terbaik untuk SVM kami mecoba coba untuk memasukkan features dan metadata untuk menghasilkan hasil yang terbaik. kami tidak memiliki alasan yang khusus atau spesifik dengan menagapa kami memasukkan features dan metadata untuk mencari hasil dari SVM.
 
 ## Performance - Evaluasi
 
